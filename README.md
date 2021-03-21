@@ -43,4 +43,4 @@ Runs `yarn build`, then deploys.
 
 ## Website
 
-This project runs at https://oyvindhg.github.io/react-website-template/
+This project runs at https://oyvindhg.github.io/react-ghpages-template/
