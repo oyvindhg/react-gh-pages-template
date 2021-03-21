@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-website-template/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-website-template/static/js/main.9f6cf08d.chunk.js",
-    "main.js.map": "/react-website-template/static/js/main.9f6cf08d.chunk.js.map",
-    "runtime-main.js": "/react-website-template/static/js/runtime-main.d0bb9b6c.js",
-    "runtime-main.js.map": "/react-website-template/static/js/runtime-main.d0bb9b6c.js.map",
-    "static/js/2.a9c996fc.chunk.js": "/react-website-template/static/js/2.a9c996fc.chunk.js",
-    "static/js/2.a9c996fc.chunk.js.map": "/react-website-template/static/js/2.a9c996fc.chunk.js.map",
-    "static/js/3.a9bb8b70.chunk.js": "/react-website-template/static/js/3.a9bb8b70.chunk.js",
-    "static/js/3.a9bb8b70.chunk.js.map": "/react-website-template/static/js/3.a9bb8b70.chunk.js.map",
-    "index.html": "/react-website-template/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-website-template/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.a9c996fc.chunk.js.LICENSE.txt": "/react-website-template/static/js/2.a9c996fc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-website-template/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-ghpages-template/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-ghpages-template/static/js/main.c24798d3.chunk.js",
+    "main.js.map": "/react-ghpages-template/static/js/main.c24798d3.chunk.js.map",
+    "runtime-main.js": "/react-ghpages-template/static/js/runtime-main.d30f7c8c.js",
+    "runtime-main.js.map": "/react-ghpages-template/static/js/runtime-main.d30f7c8c.js.map",
+    "static/js/2.45656334.chunk.js": "/react-ghpages-template/static/js/2.45656334.chunk.js",
+    "static/js/2.45656334.chunk.js.map": "/react-ghpages-template/static/js/2.45656334.chunk.js.map",
+    "static/js/3.a5263f00.chunk.js": "/react-ghpages-template/static/js/3.a5263f00.chunk.js",
+    "static/js/3.a5263f00.chunk.js.map": "/react-ghpages-template/static/js/3.a5263f00.chunk.js.map",
+    "index.html": "/react-ghpages-template/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-ghpages-template/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.45656334.chunk.js.LICENSE.txt": "/react-ghpages-template/static/js/2.45656334.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-ghpages-template/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0bb9b6c.js",
-    "static/js/2.a9c996fc.chunk.js",
+    "static/js/runtime-main.d30f7c8c.js",
+    "static/js/2.45656334.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.9f6cf08d.chunk.js"
+    "static/js/main.c24798d3.chunk.js"
   ]
 }
