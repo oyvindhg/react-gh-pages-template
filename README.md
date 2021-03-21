@@ -27,7 +27,7 @@ Launches the test runner in the interactive watch mode. Learn more about running
 ## Deployment
 
 1) Make sure the publishing source is set to the `gh-pages` branch as described [here](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). Make sure to deploy at least once to create this branch.
-2) Edit `package.json` to set the correct project `ǹame` and `homepage`
+2) Edit `package.json` to set the correct project `name` and `homepage`
 3) Custom domain? \
 Fill in the `custom domain` field under the project setting in Github, and point to Github Pages from the domain at the DNS provider.
 More details [here](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
@@ -39,3 +39,8 @@ Builds the app for production to the `build` folder.
 #### `yarn deploy`
 
 Runs `yarn build`, then deploys.
+
+
+## Website
+
+This project runs at https://oyvindhg.github.io/react-website-template/
