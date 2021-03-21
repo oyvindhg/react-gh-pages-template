@@ -1,4 +1,4 @@
-# React app on Github Pages
+# React App on Github Pages - Template
 
 ## Requirements
 
